@@ -1,5 +1,6 @@
 # Tugas 7 MySQL
 ![Tugas 7](https://github.com/troy213/tugas_7_mysql/blob/main/pasted%20image%200.png)
+
 #### 1. Buatlah struktur tabel yang akan menampung data-data diatas (CREATE TABLE). Kali ini saya tidak akan membatasi nama tabel, nama kolom maupun tipe datanya. Silahkan teman-teman berkreasi sendiri.
 #### 2. Input 8 kota pertama menggunakan query INSERT ... VALUES, bisa menginputnya satu per satu (satu query INSERT untuk setiap baris), atau sekaligus dalam satu query INSERT.
 #### 3. Input 2 kota terakhir menggunakan query INSERT ... SET.
